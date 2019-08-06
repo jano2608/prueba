@@ -1,0 +1,17 @@
+.carousel-innern , img{
+  max-width: px;
+  max-height: 650px
+
+}
+body {
+  background-color: purple !important;
+}
+#parrafo_abaut {
+  color: white;
+}
+#h2_abaut{
+  color: yellow;
+}
+#h3_abaut{
+  color: blue;
+}
