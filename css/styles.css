@@ -1,11 +1,5 @@
-.carousel-innern , img{
-  max-width: px;
-  max-height: 650px
 
-}
-body {
-  background-color: purple !important;
-}
+
 #parrafo_abaut {
   color: white;
 }
@@ -14,4 +8,13 @@ body {
 }
 #h3_abaut{
   color: blue;
+}
+.complate{
+  background-color: #39d0f5;
+}
+.voluntarios{
+  color: white;
+}
+#img_abaut{
+
 }
